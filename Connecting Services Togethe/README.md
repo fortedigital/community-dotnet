@@ -1,5 +1,5 @@
 
-# Connecting you Services Togheter  
+# Connecting you Services Together  
 Level: Intermediate  
 Instructor: Monica B. Tvedt  
   
