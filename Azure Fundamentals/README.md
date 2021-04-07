@@ -13,7 +13,7 @@ Azure Fundamentals part 2:
 Describe core Azure services  
 https://docs.microsoft.com/en-us/learn/paths/az-900-describe-core-azure-services/
 
-Agenda:
+Agenda:  
 17:00: Welcome   
 17:15: Introduction to Azure Fundamentals    
      : Azure Fundamentals Concepts      
