@@ -45,6 +45,24 @@ Agenda:
      : Secure Network Connectivity on Azure.  
 20:00: Homework assignments
   
+### Schedule Day 3:  
+Azure Fundamentals part 5:  
+Describe identity, governance, privacy, and compliance features      
+https://docs.microsoft.com/en-us/learn/paths/az-900-describe-identity-governance-privacy-compliance-features/  
+
+Azure Fundamentals part 6:  
+Describe Azure cost management and service level agreements      
+https://docs.microsoft.com/en-us/learn/paths/az-900-describe-azure-cost-management-service-level-agreements/    
+
+Agenda:  
+17:00: Welcome     
+17:15: Secure access to your applications by using Azure identity services.   
+     : Build a cloud governance strategy on Azure.  
+     : Examine privacy, compliance, and data protection standards on Azure.  
+     : Plan and manage your Azure costs.  
+     : Choose the right Azure services by examining SLAs and service lifecycle.  
+20:00: Homework assignments  
+  
 We are looking forward to seeing you all there!  
   
 Best Regards,  
